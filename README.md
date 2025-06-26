@@ -1,7 +1,20 @@
+<div align="center">
+  <br />
+    <a href="https://gsap-cocktail-landing-pg.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/7ed7c255-252d-4b73-b96c-2dacf5b2709b" alt="Project Banner">
+    </a>
+  <br />
+<div>
+    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+
 <h3 align="center">GSAP Cocktail Website Landing Page</h3>
 
 <div align="center">
   Built with React, Tailwind CSS, and GSAP — inspired by a tutorial from <a href="https://jsmastery.com/" target="_blank"><b>JavaScript Mastery</b></a>.
+</div>
 </div>
 
 <p align="center">
